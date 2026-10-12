@@ -1,0 +1,5 @@
+{
+  "name": "abhineha-mods",
+  "owner": { "name": "poppydad" },
+  "plugins": [{ "name": "agent-squad", "source": "./" }]
+}

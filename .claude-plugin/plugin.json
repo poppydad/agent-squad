@@ -1,0 +1,1 @@
+{ "name": "agent-squad", "version": "0.1.0", "description": "A side pane showing every subagent as a little stick person, with progress and unreasonable commentary", "types": "./types/index.d.ts" }
